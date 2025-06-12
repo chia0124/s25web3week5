@@ -175,6 +175,9 @@ function help() {
   `);
 }
 
+
+
+/*
 // A 'state' object that forwards reads/writes to the variables
 const state = {
   get gold() {
@@ -230,3 +233,4 @@ module.exports =  {
   help,
   state
 };
+*/
